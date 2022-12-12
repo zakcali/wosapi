@@ -3,6 +3,6 @@ fetches article data if Web of science (WOS) number/id is known. Uses web of sci
 
 http://wokinfo.com/media/pdf/WebServicesLiteguide.pdf 
 
-try to find abstract text and Journal's short name form unofficial publons-api:
+try to find abstract text and Journal's short name form unofficial publons-api
 
 
