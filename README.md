@@ -1,5 +1,5 @@
 # wosapi
-fetch article data if Web of science (WOS) number/id is known. Uses web of science - lite- xml api
+fetches article data if Web of science (WOS) number/id is known. Uses web of science - lite- xml api
 
 http://wokinfo.com/media/pdf/WebServicesLiteguide.pdf 
 
